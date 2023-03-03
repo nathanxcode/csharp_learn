@@ -6,5 +6,5 @@
  
  1. Apertar barra de espaço mostra o player no centro da tela.
  2. W, A, S, D movimenta o Player.
- 
+ 3. Apertar Q encerra jogo.
  
